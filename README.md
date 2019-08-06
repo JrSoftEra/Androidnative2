@@ -1,1 +1,3 @@
 # A Working Template..
+
+It's only for Visual Studio 2017 IDE...
